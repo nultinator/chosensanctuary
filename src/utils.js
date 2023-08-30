@@ -1,4 +1,4 @@
-export const SERVER_LOCATION = "http://3.19.103.107/api";
+export const SERVER_LOCATION = "https://chosensanctuary.exchange/api";
 //export const SERVER_LOCATION = "http://172.31.40.87:5000/api";
 
 export const GetIpfsUrlFromPinata = (pinataUrl) => {
